@@ -1,0 +1,43 @@
+body {
+    font-family: Outfit;
+}
+
+.fundo {       
+    background-color: hsl(232, 84%, 93%);
+    width: auto;
+    height: 400px;
+    padding: 120px;
+}
+
+.sobre-fundo {
+    background-color: #fff;
+    text-align: center;
+    width: 300px;
+    height: 450px;
+    margin-left: 430px; 
+    
+    border-radius: 15px;
+}
+
+.qr-code {
+    width: 270px;
+    border-radius: 15px;
+    margin-top: 14px;
+}
+
+.paragrafo {
+    font-size: 10px;
+    line-height: 10px;
+    padding-bottom: 10px;
+}
+
+.texto {
+    font-size: 15px;
+    line-height: 1px;
+    color: hsl(212, 45%, 89%);
+    
+}
+
+.attribution {
+    margin-top: 10px;
+}
